@@ -1,0 +1,51 @@
+.first{
+	background-color:#101111;
+	padding:5px;	
+}
+.first h5{
+	color:white;
+	background-color:white;
+	font-family:arial;
+}
+}
+.second img{
+	height:160px;
+	
+}.third{
+	background-color:#BF0E41;
+	padding:10px;
+}
+.third h4{
+	font-family:arial;
+	color:white;
+}
+.third h4{
+	color:white;
+}
+.home{
+	color:#878F98;
+	width:130px;
+}
+.home li h5 a{
+	width:20px;
+}
+}
+.table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width:500px;
+ 
+}
+.profile{
+	background-color:black;
+	font-family:arial;
+	color:white;
+	margin-left:330px;
+	margin-bottom:10000px;
+	text-align:top;
+	
+}
+.my{
+	width:15px;
+}
+
